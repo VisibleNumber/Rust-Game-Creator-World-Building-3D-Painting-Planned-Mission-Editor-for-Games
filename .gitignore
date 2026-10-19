@@ -1,0 +1,7 @@
+/target/
+/Project Grove.exe
+/worlds/*.tmp
+/backups/
+/worlds/recovery.grove*
+/*.bmp
+
